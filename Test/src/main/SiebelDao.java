@@ -5,7 +5,7 @@ public class SiebelDao {
 	
 	public void printSomething(){
 		
-		System.out.println("Comp 1: " + comp);
+		System.out.println("Comp 12: " + comp);
 		
 		System.out.println("Component 22: " + comp);
 		String testStr2 = "abc2";
