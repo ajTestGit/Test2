@@ -16,6 +16,13 @@ public class SiebelDao {
 		String testStr11 = "abc11";
 		System.out.println(testStr11);
 
+		System.out.println("Comp 1: " + comp);
+		System.out.println(testStr1);
+		System.out.println(testStr11);
+		System.out.println("Component 2: " + comp);
+		System.out.println(testStr2);
+
+
 	}
 	
 }
